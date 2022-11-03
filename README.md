@@ -1,1 +1,1 @@
-# cloud_devops_projeccts
+# cloud_devops_projects
